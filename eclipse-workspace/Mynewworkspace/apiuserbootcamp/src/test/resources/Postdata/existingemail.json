@@ -1,0 +1,14 @@
+{
+ "user_first_name":  "Lovronesydney",
+ "user_last_name":  "ReichardsonJr" ,
+ "user_contact_number":"1954243821",
+ "user_email_id": "Lllrardson@gmail.com",
+
+"userAddress": {
+   "plotNumber": "pl-1463",
+   "street": "Dunwoody Gables",
+   "state": "NY",
+   "country": "USA",
+   "zipCode": "12651"
+ }
+}
